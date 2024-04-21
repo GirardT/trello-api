@@ -30,3 +30,37 @@ If the card has attachments, the script lists them with their names and URLs, ma
 
 The script also fetches and displays any checklists associated with the card. Each checklist item is presented with a checkbox indicating its completion status, allowing you to quickly see what tasks have been completed and what's pending.
 
+```plaintext
+Card Name: If I Wanted to Go From Broke to Millionaire, Here’s What I’d Do
+Card Description: 
+Card URL: https://trello.com/c/e2oAyvB3/476-if-i-wanted-to-go-from-broke-to-millionaire-heres-what-id-do
+
+ATTACHMENTS:
+
+Name: https://www.youtube.com/watch?v=m3ytRbIzsWM
+URL: https://www.youtube.com/watch?v=m3ytRbIzsWM
+
+Name: Build a 6 Figure Skill
+URL: https://trello.com/1/cards/66249ca41a20bd8a3d4a1e18/attachments/66249d2fc7d3c0b6ee066391/download/image.png
+
+Name: F.O.C.U.S.
+URL: https://trello.com/1/cards/66249ca41a20bd8a3d4a1e18/attachments/66249db05a1631aa2010bb4f/download/image.png
+
+... (Additional attachments)
+
+CHECKLISTS:
+
+Checklist
+☐ Build a 6 Figure Skill
+☐ F.O.C.U.S.
+☐ Friend-ventory
+☐ Time Assassins
+☐ Feed Your Mind
+☐ Achievement Roadmap Process, Attraction Velocity
+☐ Trade Money for Money
+
+Feed Your Mind - Which books?
+☐ Top 5 books in *<insert topic>*
+☐ Top 150 books influenced by *<insert title of the book from the top 5 books>*
+☐ Books will give you frameworks to feed your mind to improve your skills
+```
