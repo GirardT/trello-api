@@ -1,8 +1,8 @@
-from passwords import TRELLO_API
+from streamlit import TRELLO_API
 import requests
 
-API_KEY = TRELLO_API["API_KEY"]
-TOKEN = TRELLO_API["TOKEN"]
+API_KEY = TRELLO_API.secrets["API_KEY"]
+TOKEN = TRELLO_API.secrets["TOKEN"]
 
 def get_workspaces():
     url = f'https://api.trello.com/1/members/me/organizations?key={API_KEY}&token={TOKEN}'
